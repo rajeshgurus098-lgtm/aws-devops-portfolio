@@ -17,4 +17,4 @@ to demonstrate real cloud skills.
 ## Connect
 - LinkedIn: [https://www.linkedin.com/in/rajeshguru-selvarajan-555733252/ ](https://www.linkedin.com/in/rajeshguru-selvarajan-555733252/)
 - ## Live Projects
-- 🌐[ [My S3 Website](paste your URL here)](http://my-portfolio-website-rajeshguru.s3-website-ap-southeast-2.amazonaws.com/) 
+- 🌐[ [My S3 Website]http://my-portfolio-website-rajeshguru.s3-website-ap-southeast-2.amazonaws.com/
