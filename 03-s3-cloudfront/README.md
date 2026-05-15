@@ -8,7 +8,7 @@ to demonstrate real cloud skills.
 | # | Project | Services Used | Status |
 |---|---------|--------------|--------|
 | 01 | VPC Setup | VPC, Subnets, NAT, Security Groups | 🔄 In Progress |
-| 02 | EC2 Auto Scaling | EC2, ALB, Auto Scaling Groups | 🔜 Coming Soon |
+| 01 | S3 Static Website | S3, Bucket Policy, Static Hosting | ✅ Complete |
 | 03 | S3 + CloudFront | S3, CloudFront, Route53 | 🔜 Coming Soon |
 
 ## Certifications
@@ -16,3 +16,5 @@ to demonstrate real cloud skills.
 
 ## Connect
 - LinkedIn: [https://www.linkedin.com/in/rajeshguru-selvarajan-555733252/ ](https://www.linkedin.com/in/rajeshguru-selvarajan-555733252/)
+- ## Live Projects
+- 🌐[ [My S3 Website](paste your URL here)](http://my-portfolio-website-rajeshguru.s3-website-ap-southeast-2.amazonaws.com/) 
